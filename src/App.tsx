@@ -6,7 +6,7 @@ import './styles/global.scss';
 
 function App() {
   return (
-    <NewRoom />
+    <Home />
   );
 }
 
