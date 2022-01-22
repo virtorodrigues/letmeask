@@ -1,6 +1,5 @@
-<p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
-</p>
+![logo](https://user-images.githubusercontent.com/40903144/150658753-663a3297-14d6-4c04-9ce8-991836c37169.svg)
+
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="NLW Together 06" />
