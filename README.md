@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
+  ![cover](https://user-images.githubusercontent.com/40903144/150658673-ecf90004-cfa4-4ad6-a4f0-2c17a01b4dba.svg)
 </h1>
 
 <br>
