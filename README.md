@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="Letmeask" src="![logo](https://user-images.githubusercontent.com/40903144/150658753-663a3297-14d6-4c04-9ce8-991836c37169.svg)" width="160px">
+  ![logo](https://user-images.githubusercontent.com/40903144/150658753-663a3297-14d6-4c04-9ce8-991836c37169.svg)
 </p>
 
 <p align="center">
